@@ -6,6 +6,10 @@ zephyr_ws
 
 # Build Output
 build
+
+# Learning samples (personal RP2350 practice, not part of the product)
+samples/
+
 # Python Cache
 __pycache__/
 *.pyc
